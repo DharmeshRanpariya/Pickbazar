@@ -1,0 +1,56 @@
+[
+  
+  {
+    "id": 5,
+    "name": "Clothing",
+    "language": "en",
+    "translated_languages": ["en"],
+    "slug": "clothing",
+    "banners": [
+      {
+        "id": 16,
+        "title": "Shop your designer dresses",
+        "type_id": 5,
+        "description": "Ready to wear dresses tailored for you online. Hurry up while stock lasts.",
+        "image": {
+          "id": 911,
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/908/cloths.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/908/conversions/cloths-thumbnail.jpg"
+        }
+      }
+    ],
+    "promotional_sliders": [
+      {
+        "id": 902,
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/offer-5.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/902/conversions/offer-5-thumbnail.jpg"
+      },
+      {
+        "id": 903,
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/offer-4.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/903/conversions/offer-4-thumbnail.jpg"
+      },
+      {
+        "id": 904,
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/offer-3.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/904/conversions/offer-3-thumbnail.jpg"
+      },
+      {
+        "id": 905,
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/offer-2.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/905/conversions/offer-2-thumbnail.jpg"
+      },
+      {
+        "id": 906,
+        "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/offer-1.png",
+        "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/906/conversions/offer-1-thumbnail.jpg"
+      }
+    ],
+    "settings": {
+      "isHome": false,
+      "layoutType": "classic",
+      "productCard": "xenon"
+    },
+    "icon": "DressIcon"
+  }
+]
